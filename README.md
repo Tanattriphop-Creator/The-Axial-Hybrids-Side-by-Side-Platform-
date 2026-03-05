@@ -1,2 +1,2 @@
-# Universal-Propulsion-System-UPS.
-: "Quantum S-Wing: Multi-Domain Edition" Universal Propulsion System ​Objective: To establish a new standard for zero-emission propulsion systems compatible with all vehicle types (Universal Platform)
+The Axial Hybrids: Side-by-Side Platform is an open-source initiative designed to revolutionize the Electric Vehicle (EV) conversion industry. It provides a modular, "DIY-friendly" framework to transform existing Internal Combustion Engine (ICE) vehicles into high-performance hybrids.
+
