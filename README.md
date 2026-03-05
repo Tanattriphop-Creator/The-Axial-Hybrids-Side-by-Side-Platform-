@@ -1,5 +1,5 @@
 ​Axial Hybrids: Side-by-Side Platform
-​The New Standard for Modular EV Conversion Kits (S-wing kit)
+​The New Standard for Modular EV Conversion Kits 
 ​Document Version: 1.0 (2026-03-05)
 License: Apache License 2.0
 Authors: Tanattriphop Langkulanon & Tipnamon Mongkoltripob
